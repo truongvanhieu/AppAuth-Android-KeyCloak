@@ -1,9 +1,9 @@
 {
-  "client_id": "",
+  "client_id": "WebClientVNBus",
   "redirect_uri": "net.openid.appauthdemo:/oauth2redirect",
-  "authorization_scope": "openid email profile",
+  "authorization_scope": "",
   "discovery_uri": "",
-  "authorization_endpoint_uri": "",
+  "authorization_endpoint_uri": "http://account2.map4d.vn:8180/auth",
   "token_endpoint_uri": "",
   "registration_endpoint_uri": "",
   "user_info_endpoint_uri": "",
